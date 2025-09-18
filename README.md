@@ -1,0 +1,1 @@
+A comprehensive mortgage loan trading analysis, covering loan statuses, balances, trade execution, counterparties, pricing trends, profitability, and performance metrics across financial institutions.
